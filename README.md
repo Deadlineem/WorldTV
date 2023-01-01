@@ -10,9 +10,18 @@ What channels does it have?  For a list of channels, I'd advise going to iptv-or
 Why does the right list say "INVALID/UNNAMED/UNWORKING Channels"?
 Because those channels were not named anything from iptv-org's stream.json file, since they didnt have names, we arent sure what they are so we separated everything unnamed from the named ones.  They may not actually be broken.
 
-Can I get an updated list of channels?  YES!!!  Go to https://kaos-inc.ga/dev/streams and copy the working/named list or the unnamed list.  
+Can I get an updated list of channels?  YES!!!  
+Go to https://kaos-inc.ga/dev/streams and copy the working/named list or the unnamed list.
+These channels are always updated each time the page loads vis the iptv-org streams file.
 As far as im aware, 90% if not more of these channels are working.
 
 
 
 Why isn't there anything else here?  Simply because, I am working on it.  As time goes on I'll add more and more to this, but for now, enjoy the IPTV channels.
+
+
+Total Channels:
+Named: 8107
+Unnamed: 1741
+Total Count:  9848 Channels
+Last Updated: 1/1/2023 @ 8:51am EST
