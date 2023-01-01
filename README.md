@@ -15,7 +15,7 @@ Because those channels were not named anything from iptv-org's stream.json file,
 
 Can I get an updated list of channels?  YES!!!  
 Go to https://kaos-inc.ga/dev/streams and copy the working/named list or the unnamed list.
-These channels are always updated each time the page loads vis the iptv-org streams file.
+These channels are always updated each time the page loads via the iptv-org streams file.
 As far as im aware, 90% if not more of these channels are working.
 
 
